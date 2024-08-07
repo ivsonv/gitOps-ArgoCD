@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: ivsonv/gitops
-  newTag: c7e16387617ca47c8013a22f13ab9a695e89a7d3
+  newTag: b7598ed18a22501da8b860b2ae2809ead957b5c9
